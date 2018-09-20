@@ -2,7 +2,7 @@
 using GradeBook.Enums;
 using GradeBook.GradeBooks;
 
-namespace GradeBook
+namespace GradeBook.GradeBooks
 {
     public class RankedGradeBook : BaseGradeBook
     {
